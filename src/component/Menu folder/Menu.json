@@ -1,0 +1,334 @@
+{
+    "Menu": [
+        {
+            "menu_name": "Menu 1",
+            "id": "M01",
+            "menu_img": "../../../../assets/kkk.jpg",
+            "menu_desc": "Sandwich",
+            "sub_menu": [
+                {
+                    "sub_id":"M01_A",
+                    "sub_name": "VEG GRILLED SANDWICH",
+                    "price": "99/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/sandwich.jpg"
+                },
+                {
+                    "sub_id":"M01_B",
+                    "sub_name": "EGG MAYO GRILLED SANDWICH",
+                    "price": "135/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/eggmayo.jpg"
+                },
+                {
+                    "sub_id": "M01_C",
+                    "sub_name": "CHIKEN GRILLED SANDWICH",
+                    "price": "180/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/grilledchiken.jpg"
+                },
+                {
+                    "sub_id": "M01_D",
+                    "sub_name": "CLUB SANDWICH(vej/nonvej)",
+                    "price": "190/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/club.jpg"
+                },
+                {
+                    "sub_id": "M01_E",
+                    "sub_name": "CHIKEN TANDOOR SANDWICH WITH CHEESE",
+                    "price": "210/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/chikensandwich.jpg"
+                },
+                {
+                    "sub_id": "M01_F",
+                    "sub_name": "ALOO TIKKA SANDWICH",
+                    "price": "65/-",
+                    "sub_desc":"two or more slices of bread or a split roll having a filling in between.",
+                    "sub_img": "../../../../assets/aloo.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 2",
+            "id": "M02",
+            "menu_img": "../../../../assets/bbb.jpg",
+            "menu_desc": "Burger",
+            "sub_menu": [
+                {
+                    "sub_id": "MO2_A",
+                    "sub_name": "VEG BURGER",
+                    "price": "99/-",
+                    "sub_desc":"A burger is a flat round mass of minced meat or vegetables, which is fried and often eaten in a bread roll.",
+                    "sub_img": "../../../../assets/burger.jpg"
+                },
+                {
+                    "sub_id": "M02_B",
+                    "sub_name": "EGG MAYO BURGER",
+                    "price": "129/-",
+                    "sub_desc":"A burger is a flat round mass of minced meat or vegetables, which is fried and often eaten in a bread roll.",
+                    "sub_img": "../../../../assets/eggburger.jpg"
+                },
+                {
+                    "sub_id": "M02_C",
+                    "sub_name": "CHIKEN BURGER",
+                    "price": "140/-",
+                    "sub_desc":"A burger is a flat round mass of minced meat or vegetables, which is fried and often eaten in a bread roll.",
+                    "sub_img": "../../../../assets/chikenburger.jpg"
+                },
+                {
+                    "sub_id": "M02_D",
+                    "sub_name": "CHEESY CHIKEN BURGER with PICKLE",
+                    "price": "165/-",
+                    "sub_desc":"A burger is a flat round mass of minced meat or vegetables, which is fried and often eaten in a bread roll.",
+                    "sub_img": "../../../../assets/cheseburger.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 3",
+            "id": "M03",
+            "menu_img":"../../../../assets/pp.jpg",
+            "menu_desc": "Pasta",
+            "sub_menu": [
+                {
+                    "sub_id": "M03_A",
+                    "sub_name": "MIX SAUCE PASTA",
+                    "price": "140/-",
+                    "sub_desc":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+                    "sub_img": "../../../../assets/Pink Sauce.jpg"
+                },
+                {
+                    "sub_id": "M03_B",
+                    "sub_name": "HOLOCAUST PASTA",
+                    "price": "299/-",
+                    "sub_desc":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+                    "sub_img": "../../../../assets/holo.jpg"
+                },
+                {
+                    "sub_id": "M03_C",
+                    "sub_name": "CHIKEN PASTA",
+                    "price": "199/-",
+                    "sub_desc":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+                    "sub_img": "../../../../assets/chikenpasta.jpg"
+                },
+                {
+                    "sub_id": "M03_D",
+                    "sub_name": "WHITE SAUSE PASTA",
+                    "price": "255/-",
+                    "sub_desc":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+                    "sub_img": "../../../../assets/White.jpg"
+                },
+                {
+                    "sub_id": "M03_E",
+                    "sub_name": "WHITE SAUSE PASTA EXTRA CHEESE",
+                    "price": "290/-",
+                    "sub_desc":"Pasta is a type of food made from a mixture of flour, eggs, and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+                    "sub_img": "../../../../assets/cheesepasta.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 4",
+            "id": "M04",
+             "menu_img":"../../../../assets/ll.jpg",
+            "menu_desc": "Pizza",
+            "sub_menu": [
+                {
+                    "sub_id": "M04-A",
+                    "sub_name": "PRAWN MALAI PIZZA",
+                    "price": "310/-",
+                    "sub_desc":"Pizza has three main elements: crust, sauce, and toppings. ",
+                    "sub_img": "../../../../assets/prawn.jpg"
+                },
+                {
+                    "sub_id": "MO4_B",
+                    "sub_name": "VEGGIE PIZZA",
+                    "price": "149/-",
+                    "sub_desc":"Pizza has three main elements: crust, sauce, and toppings. ",
+                    "sub_img": "../../../../assets/veggie.jpg"
+                },
+                {
+                    "sub_id": "M04_C",
+                    "sub_name": "CHESSY CORN PIZZA",
+                    "price": "185/-",
+                    "sub_desc":"Pizza has three main elements: crust, sauce, and toppings. ",
+                    "sub_img": "../../../../assets/corn.jpg"
+                },
+                {
+                    "sub_id": "M04_D",
+                    "sub_name": "PERI PERI PIZZA",
+                    "price": "220/-",
+                    "sub_desc":"Pizza has three main elements: crust, sauce, and toppings. ",
+                    "sub_img": "../../../../assets/peri.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 5",
+            "id": "M05",
+            "menu_img": "../../../../assets/dd.jpg",
+            "menu_desc": "Kabab",
+            "sub_menu": [
+                {
+                    "sub_id": "M05_A",
+                    "sub_name": "DAHI KABAB",
+                    "price": "149/-",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/dahi.jpg"
+                },
+                {
+                    "sub_id": "M05_B",
+                    "sub_name": "PANEER ACHARI TIKKA",
+                    "price": "199/-",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/achari.jpg"
+                },
+                {
+                    "sub_id": "M05_C",
+                    "sub_name": "CHIKEN AMRITSARI KABAB",
+                    "price": "299/-",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/amrit.jpg"
+                },
+                {
+                    "sub_id": "M05_D",
+                    "sub_name": "FISH RESHMI KABAB",
+                    "price": "285/-",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/fish.jpg"
+                },
+                {
+                    "sub_id": "M0D_E",
+                    "sub_name": "CHIKEN MALAI KABAB",
+                    "price": "320/-",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/malai.jpg"
+                },
+                {
+                    "sub_id": "M05_F",
+                    "sub_name": "TANDOOR CHIKEN (half/full)",
+                    "price": "255/-(half),310/-(full)",
+                    "sub_desc":" a quick service food establishment specialising in various fast food ",
+                    "sub_img": "../../../../assets/tandoor.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 6",
+            "id": "M06",
+            "menu_img": "../../../../assets/mm.jpg",
+            "menu_desc": "Drinks & Shakes",
+            "sub_menu": [
+                {
+                    "sub_id": "M06_A",
+                    "sub_name": "MOJITO",
+                    "price": "70/-",    
+                    "sub_desc":" a smooth blend of non-alcoholic drinks, which can include fresh fruit juices, syrups, cream, herbs and spices.",
+                    "sub_img": "../../../../assets/mojito.jpg"
+                },
+                {
+                    "sub_id": "M06_B",
+                    "sub_name": "WATERMELON MOJITO",
+                    "price": "110/-",
+                    "sub_desc":" a smooth blend of non-alcoholic drinks, which can include fresh fruit juices, syrups, cream, herbs and spices.",
+                    "sub_img": "../../../../assets/watermelon.jpg"
+                },
+                {
+                    "sub_id": "M06_C",
+                    "sub_name": "MANGO SHAKE",
+                    "price": "105/-",
+                    "sub_desc":" a smooth blend of non-alcoholic drinks, which can include fresh fruit juices, syrups, cream, herbs and spices.",
+                    "sub_img": "../../../../assets/mango.jpg"
+                },
+                {
+                    "sub_id": "M06_D",
+                    "sub_name": "OREO SHAKE",
+                    "price": "135/-",
+                    "sub_desc":" a smooth blend of non-alcoholic drinks, which can include fresh fruit juices, syrups, cream, herbs and spices.",
+                    "sub_img": "../../../../assets/oreo.jpg"
+                },
+                {
+                    "sub_id": "M06_E",
+                    "sub_name": "DEVILS OWN COLD CHOCLATE SHAKE",
+                    "price": "190/-",
+                    "sub_desc":" a smooth blend of non-alcoholic drinks, which can include fresh fruit juices, syrups, cream, herbs and spices.",
+                    "sub_img": "../../../../assets/ice.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 7",
+            "id": "M07",
+            "menu_img": "../../../../assets/cc.jpg",
+            "menu_desc": "COFFE",
+            "sub_menu": [
+                {
+                    "sub_id": "M07_A",
+                    "sub_name": "CAPPUCCINO",
+                    "price": "170/-",
+                    "sub_desc":"Coffee is one of the three most popular beverages in the world ",
+                    "sub_img": "../../../../assets/five.jpg"
+                },
+                {
+                    "sub_id": "M07_B",
+                    "sub_name": "HOT VELVET COFFE",
+                    "price": "190/-",
+                    "sub_desc":"Coffee is one of the three most popular beverages in the world ",
+                    "sub_img": "../../../../assets/velvet.jpg"
+                },
+                {
+                    "sub_id": "M07_C",
+                    "sub_name": "FLAT WHITE",
+                    "price": "110/-",
+                    "sub_desc":"Coffee is one of the three most popular beverages in the world ",
+                    "sub_img": "../../../../assets/flat.jpg"
+                },
+                {
+                    "sub_id": "M07_D",
+                    "sub_name": "HONEY CINNAMON COFFE",
+                    "price": "190/-",
+                    "sub_desc":"Coffee is one of the three most popular beverages in the world ",
+                    "sub_img": "../../../../assets/honey.jpg"
+                }
+            ]
+        },
+        {
+            "menu_name": "Menu 8",
+            "id": "M08",
+            "menu_img":"../../../../assets/ee.jpg",
+            "menu_desc": "Dessert",
+            "sub_menu": [
+                {
+                    "sub_id": "M08_A",
+                    "sub_name": "STRAWBERRY CAKE",
+                    "price": "140/-",
+                    "sub_desc":" a course of usually sweet food, fruit, or cheese usually served at the end of a meal.",
+                    "sub_img": "../../../../assets/cake.jpg"
+                },
+                {
+                    "sub_id": "M08_B",
+                    "sub_name": "CHOCOLATE CAKE",
+                    "price": "160/-",
+                    "sub_desc":" a course of usually sweet food, fruit, or cheese usually served at the end of a meal.",
+                    "sub_img": "../../../../assets/index.jpg"
+                },
+                {
+                    "sub_id": "M08_C",
+                    "sub_name": "BERRY CHEESE CAKE",
+                    "price": "155/-",
+                    "sub_desc":" a course of usually sweet food, fruit, or cheese usually served at the end of a meal.",
+                    "sub_img": "../../../../assets/berry.jpg"
+                },
+                {
+                    "sub_id": "M08_D",
+                    "sub_name": "KESHAR PESTA CAKE",
+                    "price": "190/-",
+                    "sub_desc":" a course of usually sweet food, fruit, or cheese usually served at the end of a meal.",
+                    "sub_img": "../../../../assets/dessert1.jpg"
+                }
+            ]
+        }
+    ]
+}
